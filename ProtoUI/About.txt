@@ -1,0 +1,11 @@
+Please write to me for Bug Reports, Feature Suggestions, Paypal Donations & Encouragements.
+
+As usual, if this program doesn't suit your needs, just stop using it, there is no kind of any warranty whatsoever. If you need a special feature or you run into a bug, tell me about it, I'll see what I can do.
+
+This version of the software MUST NOT be sold or bundled in ANY commercial package, suite or solution.
+
+Please report to me if you paid for the package in which you found this program, I'll see what I can do to change this.
+
+If you want to distribute this program as a part of a commercial bundle, contact me to get a paid version with this "About" dialog box altered to your colours.
+
+You may request the Java source code but you still MUST NOT redistribute it, or part of it, even if you modified it.
